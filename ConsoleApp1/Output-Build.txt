@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: for, Configuration: Debug Any CPU ------
+1>  for -> C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\for\bin\Debug\@for.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
