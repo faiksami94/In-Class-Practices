@@ -1,0 +1,13 @@
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\bin\Debug\17.11.2022-connected.mimari.exe.config
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\bin\Debug\17.11.2022-connected.mimari.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\bin\Debug\17.11.2022-connected.mimari.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.csproj.AssemblyReference.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\_17._11._2022_connected.mimari.Form1.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\_17._11._2022_connected.mimari.Properties.Resources.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.csproj.GenerateResource.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.csproj.CoreCompileInputs.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\17.11.2022-connected.mimari.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\_17._11._2022_connected.mimari.Form2.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\17.11.2022-connected.mimari\obj\Debug\_17._11._2022_connected.mimari.Form3.resources

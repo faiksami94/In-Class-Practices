@@ -1,0 +1,15 @@
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\adonet.3-17.11.2022.exe.config
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\adonet.3-17.11.2022.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\adonet.3-17.11.2022.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.csproj.AssemblyReference.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet._3_17._11._2022.Properties.Resources.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.csproj.GenerateResource.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet._3_17._11._2022.Form4.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\17.11.2022-connected.mimari.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\17.11.2022-connected.mimari.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\bin\Debug\17.11.2022-connected.mimari.exe.config
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\17.11.2022-connected.mimari\adonet.3-17.11.2022\obj\Debug\adonet.3-17.11.2022.csproj.CopyComplete
