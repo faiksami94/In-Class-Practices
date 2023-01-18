@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.11.2022-disconnected mimarisi", "16.11.2022-disconnected mimarisi\16.11.2022-disconnected mimarisi.csproj", "{A6806CF8-CECD-4F93-B597-D830970B2C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreProcedure.21.11.2022", "StoreProcedure.21.11.2022\StoreProcedure.21.11.2022.csproj", "{60EAE5DD-CE9B-46FC-BFE9-6E48636B0CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6806CF8-CECD-4F93-B597-D830970B2C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6806CF8-CECD-4F93-B597-D830970B2C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6806CF8-CECD-4F93-B597-D830970B2C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6806CF8-CECD-4F93-B597-D830970B2C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EAE5DD-CE9B-46FC-BFE9-6E48636B0CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EAE5DD-CE9B-46FC-BFE9-6E48636B0CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EAE5DD-CE9B-46FC-BFE9-6E48636B0CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EAE5DD-CE9B-46FC-BFE9-6E48636B0CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC6E35D-1337-461F-BD13-7FE2A6C96F43}
+	EndGlobalSection
+EndGlobal
