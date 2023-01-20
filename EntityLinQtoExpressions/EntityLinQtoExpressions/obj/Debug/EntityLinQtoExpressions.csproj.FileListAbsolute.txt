@@ -1,0 +1,14 @@
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\bin\Debug\EntityLinQtoExpressions.exe.config
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\bin\Debug\EntityLinQtoExpressions.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\bin\Debug\EntityLinQtoExpressions.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.csproj.AssemblyReference.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.Form1.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.Properties.Resources.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.csproj.GenerateResource.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.csproj.CoreCompileInputs.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.exe
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.Form2.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.Form3.resources
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\EntityLinQtoExpressions\EntityLinQtoExpressions\obj\Debug\EntityLinQtoExpressions.Form4.resources
