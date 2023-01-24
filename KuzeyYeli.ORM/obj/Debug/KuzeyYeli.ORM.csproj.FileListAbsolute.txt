@@ -1,0 +1,6 @@
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csproj.AssemblyReference.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csproj.CoreCompileInputs.cache
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\HAFTAİCİ AKSM YAZILM\Source\Repos\N-Tier Architecture\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb
